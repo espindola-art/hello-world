@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi!
+
+I'm just getting used to GitHub and expect to become a programmer one day!
